@@ -1,0 +1,23 @@
+#box1
+{	background-color: ##d3d3d3;
+width: 100px;
+padding: 10px;
+position: relative;
+border: 10px solid #000080;
+height: 100px;
+margin: 10px;
+	
+}
+#box2
+{	background-color: #00FFFF;
+height: 100px;
+width: 100px;
+left: 100%;
+margin: 10px;
+float: left;
+display: inline-block;
+position: absolute;
+border: 10px solid #000080;
+padding: 10px;
+top: -20px;
+}
